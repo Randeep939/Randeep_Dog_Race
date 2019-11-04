@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randeep_Dog_Race", "Randeep_Dog_Race\Randeep_Dog_Race.csproj", "{C2D82C1F-7CE0-4136-93BA-7A0B06578472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randeep_Dog_RaceTests", "Randeep_Dog_RaceTests\Randeep_Dog_RaceTests.csproj", "{D67BFB6A-337F-41D5-AC6A-FA35A8B46D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D82C1F-7CE0-4136-93BA-7A0B06578472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D82C1F-7CE0-4136-93BA-7A0B06578472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D82C1F-7CE0-4136-93BA-7A0B06578472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D82C1F-7CE0-4136-93BA-7A0B06578472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67BFB6A-337F-41D5-AC6A-FA35A8B46D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BFB6A-337F-41D5-AC6A-FA35A8B46D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BFB6A-337F-41D5-AC6A-FA35A8B46D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BFB6A-337F-41D5-AC6A-FA35A8B46D81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A937D006-5F40-4BCD-A601-30765F0A6860}
+	EndGlobalSection
+EndGlobal
